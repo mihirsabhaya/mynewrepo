@@ -1,1 +1,1 @@
-var newFeature = 'new features'
+var secondvar = "new variable"
