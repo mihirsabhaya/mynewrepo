@@ -1,1 +1,1 @@
-var newFeature = 'new feature'
+var newFeature = 'new features'
